@@ -2,8 +2,9 @@
 
 I am student and developer of mobile technologies. Java, Swift, Flutter.
 
-For the past two years I have dedicated myself to the study of Flutter.
+For the past two years I have dedicated myself to the study of Dart/Flutter.
 
+<!--
 **RodrigoSMarques/RodrigoSMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

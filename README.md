@@ -1,5 +1,6 @@
 ## Hi there, I'm Rodrigo Marques 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodrigoSMarques%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **RodrigoSMarques/RodrigoSMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +23,6 @@ Here are some ideas to get you started:
 ### Pinned
 
 [![Flutter Branch SDK](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=flutter_branch_sdk&show_owner=true)](https://github.com/RodrigoSMarques/flutter_branch_sdk)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRodrigoSMarques%2Fflutter_branch_sdk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Flutter Flurry SDK](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=flutter_flurry_sdk&show_owner=true)](https://github.com/RodrigoSMarques/flutter_flurry_sdk)
 [![Flutter Cielo LIO SDK ](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=FlutterCieloLioSDK&show_owner=true)](https://github.com/RodrigoSMarques/FlutterCieloLioSDK)
 [![App #13 - Integração com Código Android Nativo Android do curso Criação de Apps Android e iOS com Flutter - Crie 16 Apps](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=floating_button&show_owner=true)](https://github.com/RodrigoSMarques/floating_button)

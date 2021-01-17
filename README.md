@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![App #13 - Integração com Código Android Nativo Android do curso Criação de Apps Android e iOS com Flutter - Crie 16 Apps](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=floating_button&show_owner=true)](https://github.com/RodrigoSMarques/floating_button)
 
-[![Parse-SDK-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=Parse-SDK-Flutterk&show_owner=true)](https://github.com/parse-community/Parse-SDK-Flutter)
+[![Parse-SDK-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=Parse-SDK-Flutter&show_owner=true)](https://github.com/parse-community/Parse-SDK-Flutter)

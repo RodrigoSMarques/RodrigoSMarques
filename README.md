@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Flutter Flurry SDK](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=flutter_flurry_sdk)](https://github.com/RodrigoSMarques/flutter_flurry_sdk)
 
-[![Flutter Cielo LIO SDK ](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=FlutterCieloLioSDK)](hhttps://github.com/RodrigoSMarques/FlutterCieloLioSDK)
+[![Flutter Cielo LIO SDK ](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=FlutterCieloLioSDK)](https://github.com/RodrigoSMarques/FlutterCieloLioSDK)
 
 [![App #13 - Integração com Código Android Nativo Android do curso Criação de Apps Android e iOS com Flutter - Crie 16 Apps](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoSMarques&repo=floating_button)](https://github.com/RodrigoSMarques/floating_button)
 
